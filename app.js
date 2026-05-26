@@ -108,6 +108,7 @@ app.get('/', (req, res) => {
         <div class="error" id="errorMsg" aria-live="polite"></div>
 
         <div class="fake-terminal" id="terminal">
+        $ /* breadcrumb: Looks like there’s an extra special surprise waiting for you, maybe is a cookie. */ 
         </div>
 
         <script>
